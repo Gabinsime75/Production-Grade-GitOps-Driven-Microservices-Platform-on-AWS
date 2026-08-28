@@ -5,6 +5,8 @@
 Online Boutique is a polyglot, microservices-based application consisting of 11 independently deployable services that communicate through well-defined gRPC
 ![alt text](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/blob/main/Docs/Architecture/Applications-Architecture.png)
 
+## 🧩 Online Boutique Microservices: Languages and Responsibilities
+
 | Service                                                                                                                                          | Language      | Description                                                                                                                                                  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | [frontend](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/tree/main/src/adservice)                           | Go            | Exposes the application’s HTTP interface, serves the website, and automatically generates session IDs without requiring user registration or authentication. |
