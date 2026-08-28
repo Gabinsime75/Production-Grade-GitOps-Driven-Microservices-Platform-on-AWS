@@ -3,4 +3,5 @@
 # 🏗️ Architecture
 ## Applications Architecture
 Online Boutique is a polyglot, microservices-based application consisting of 11 independently deployable services that communicate through well-defined gRPC
+![alt text](https://github.com/Gabinsime75/CloudHustler-Commerce-Platform/blob/main/docs/architecture/Cloudhustler-Commerce-Platform-Architecture.jpg)
 
