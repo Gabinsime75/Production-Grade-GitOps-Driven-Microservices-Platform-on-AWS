@@ -1,7 +1,7 @@
 # Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS
 
 # 🏗️ Architecture
-## Applications Architecture
+## 🔗 Applications Architecture
 Online Boutique is a polyglot, microservices-based application consisting of 11 independently deployable services that communicate through well-defined gRPC
 ![alt text](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/blob/main/Docs/Architecture/Applications-Architecture.png)
 
@@ -22,6 +22,6 @@ Online Boutique is a polyglot, microservices-based application consisting of 11 
 | [loadgenerator](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/tree/main/src/loadgenerator)                 | Python/Locust | Continuously generates realistic shopping traffic against the frontend to validate application behavior and performance under load.                          |
 
 
-## Project Architecture
+## ☁️ Project Architecture
 ![alt text](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/blob/main/Docs/Architecture/Project-Arcgitecture.png)
 
