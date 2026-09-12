@@ -23,5 +23,5 @@ Online Boutique is a polyglot, microservices-based application consisting of 11 
 
 
 ## ☁️ Project Architecture
-![alt text](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/blob/main/Docs1/Architecture/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS-V2.jpg)
+![alt text](https://github.com/Gabinsime75/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS/blob/main/Docs1/Architecture/Production-Grade-GitOps-Driven-Microservices-Platform-on-AWS-V3.jpg)
 
